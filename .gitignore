@@ -1,0 +1,10 @@
+test.js
+
+# Backend ignores
+backend/venv/
+backend/__pycache__/
+backend/db.sqlite3
+backend/*.pyc
+
+# Frontend ignores
+frontend/node_modules/
